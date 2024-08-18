@@ -175,15 +175,10 @@ echo "Done"
 
 👉🏻COMMAND 1 :-
 ```bash
-git clone your link
-```
-
-👉🏻COMMAND 2 :-
-```bash
 chmod +x NAME.sh && ./NAME.sh
 ```
 
-👉🏻COMMAND 3 :-
+👉🏻COMMAND 2 :-
 ```bash
 git add . && git commit -m "feat: initiated the project" && git push origin main
 ```
